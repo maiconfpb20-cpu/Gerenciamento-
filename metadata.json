@@ -1,0 +1,7 @@
+{
+  "name": "Lava Car Manager Pro",
+  "description": "Um sistema completo para gestão de funcionários de lava-jato, controle de dias trabalhados e cálculo automático de salários com insights inteligentes via IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
